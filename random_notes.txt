@@ -1,8 +1,0 @@
-communication overview:
-https://toio.github.io/toio-spec/en/docs/ble_communication_overview
-
-motor control:
-https://toio.github.io/toio-spec/en/docs/ble_motor/
-
-motion sensor:
-https://toio.github.io/toio-spec/en/docs/ble_sensor
